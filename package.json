@@ -13,21 +13,21 @@
         "coverage": "vitest run --coverage"
     },
     "dependencies": {
-        "vue": "^3.2.37",
+        "vue": "^3.2.41",
         "vue-router": "^4.1.5",
         "vuetify": "^3.0.0-beta.11"
     },
     "devDependencies": {
-        "@typescript-eslint/eslint-plugin": "^5.38.1",
-        "@typescript-eslint/parser": "^5.38.1",
-        "@vitejs/plugin-vue": "^3.1.0",
+        "@typescript-eslint/eslint-plugin": "^5.41.0",
+        "@typescript-eslint/parser": "^5.41.0",
+        "@vitejs/plugin-vue": "^3.2.0",
         "@vue/eslint-config-typescript": "^11.0.2",
-        "eslint": "8.22.0",
-        "eslint-plugin-vue": "^9.5.1",
+        "eslint": "8.26.0",
+        "eslint-plugin-vue": "^9.6.0",
         "typescript": "^4.8.4",
-        "vite": "^3.1.0",
+        "vite": "^3.2.1",
+        "vue-tsc": "^1.0.9",
         "vite-plugin-vuetify": "^1.0.0-alpha.17",
-        "vitest": "^0.23.4",
-        "vue-tsc": "^0.40.4"
+        "vitest": "^0.23.4"
     }
 }
