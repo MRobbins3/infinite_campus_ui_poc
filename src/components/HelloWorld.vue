@@ -44,12 +44,12 @@ export default defineComponent({
         const count: Ref<number> = ref(0);
         return {
             count
-        }
+        };
     },
     data() {
         return {
 
-        }
+        };
     },
     computed: {
 
@@ -57,7 +57,7 @@ export default defineComponent({
     methods: {
 
     }
-})
+});
 
 </script>
 

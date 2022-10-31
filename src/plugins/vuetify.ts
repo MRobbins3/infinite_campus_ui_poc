@@ -1,7 +1,7 @@
 // Styles
-import 'vuetify/styles'
+import 'vuetify/styles';
 
 // Vuetify
-import { createVuetify } from 'vuetify'
+import { createVuetify } from 'vuetify';
 
-export default createVuetify()
+export default createVuetify();

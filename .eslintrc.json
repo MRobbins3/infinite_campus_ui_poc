@@ -25,6 +25,9 @@
         "@typescript-eslint/no-explicit-any": "off",
         "@typescript-eslint/no-non-null-assertion": "off",
         "@typescript-eslint/no-unused-vars": ["off", { "argsIgnorePattern": "^_" }],
+        // Note: you must disable the base rule as it can report incorrect errors
+        "semi": "off",
+        "@typescript-eslint/semi": "warn",
         "vue/html-indent": ["error", 4]
     }
 }
